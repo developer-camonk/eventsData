@@ -119,21 +119,6 @@
       "maxSpots": 100,
       "showEvent": true,
       "createdAt": "05/04/2024 03:06 PM"
-    },
-    {
-      "id": "31",
-      "name": "Writing Workshop: Unleash Your Inner Author",
-      "description": "Unlock your creative potential and embark on a journey of self-expression at our Writing Workshop. From poetry to prose, fiction to non-fiction, hone your writing skills and discover the storyteller within.",
-      "image": "https://source.unsplash.com/random/1920x1080/?writing",
-      "date": "10/02/2026",
-      "startTime": "10:00 AM",
-      "endTime": "1:00 PM",
-      "status": "closed",
-      "price": 30,
-      "bookedSpots": 20,
-      "maxSpots": 25,
-      "showEvent": true,
-      "createdAt": "18/03/2024 05:00 AM"
     }
   ],
   "users": [
@@ -286,36 +271,6 @@
       "lastName": "Akitt",
       "email": "hakitte@hatena.ne.jp",
       "phone": "291-670-0296"
-    },
-    {
-      "id": "66100c8afc13ae66fdab91d6",
-      "index": 605,
-      "createdAt": "8/8/2018 12:00 AM",
-      "avatar": "https://robohash.org/maioresaccusamusesse.png?size=50x50&set=set1",
-      "firstName": "Missy",
-      "lastName": "Volker",
-      "email": "mvolkerf@harvard.edu",
-      "phone": "973-836-2710"
-    },
-    {
-      "id": "66100c8afc13ae66fdab91d7",
-      "index": 745,
-      "createdAt": "8/8/2018 12:00 AM",
-      "avatar": "https://robohash.org/sintrecusandaedoloribus.png?size=50x50&set=set1",
-      "firstName": "Saudra",
-      "lastName": "Kingsnoad",
-      "email": "skingsnoadg@google.com.br",
-      "phone": "412-693-1014"
-    },
-    {
-      "id": "66100c8afc13ae66fdab91d8",
-      "index": 378,
-      "createdAt": "8/8/2018 12:00 AM",
-      "avatar": "https://robohash.org/beataequisvoluptatibus.png?size=50x50&set=set1",
-      "firstName": "Teodoro",
-      "lastName": "Insull",
-      "email": "tinsullh@amazon.co.uk",
-      "phone": "118-872-0306"
     }
   ]
 }
